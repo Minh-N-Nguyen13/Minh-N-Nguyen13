@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/Minh_N_Nguyen13
 [youtube]: https://www.youtube.com/channel/UCO7sel7Ya95FbQz5aU9FRww
 [instagram]: https://www.instagram.com/minh_n_nguyen13/
-[linkedin]: https://www.linkedin.com/in/minhnguyenhcmc/
+[linkedin]: https://www.linkedin.com/in/minhnnguyen13/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
